@@ -2,7 +2,7 @@
 
 This Bash script analyzes network traffic from a pcap (packet capture) file created by Wireshark. It provides a summary of packet counts, protocol usage, and the most frequent source and destination IP addresses.
 
-##Science Behind the Script
+## Science Behind the Script
 
 Network traffic analysis involves examining the data packets that travel over a network. These packets include various types of information, such as:
 
