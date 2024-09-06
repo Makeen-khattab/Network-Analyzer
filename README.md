@@ -1,4 +1,4 @@
-#Network Traffic Analysis Script
+# Network Traffic Analysis Script
 
 This Bash script analyzes network traffic from a pcap (packet capture) file created by Wireshark. It provides a summary of packet counts, protocol usage, and the most frequent source and destination IP addresses.
 
